@@ -567,7 +567,7 @@
           στείλεις προτάσεις στο <a href="mailto:esr@thyrsus.com">esr@thyrsus.com</a> ή στο <a href=
           "respond-auto@linuxmafia.com">respond-auto@linuxmafia.com</a>. Σημείωσε πάραυτα ότι
           αυτό το έγγραφο δεν έχει σκοπό να είναι ένας γενικός οδηγός σχετικά
-          με την <a href="http://www.dtcc.edu/cs/rfc1855.html">netiquette</a>, και γενικά θα απορρίψουμε προτάσεις που δεν είναι
+          με την <a href="http://www.ietf.org/rfc/rfc1855.txt">netiquette</a>, και γενικά θα απορρίψουμε προτάσεις που δεν είναι
           συγκεκριμένα σχετικές με την απόσπαση χρήσιμων απαντήσεων από 
           ένα τεχνικό forum.)
         </p>
